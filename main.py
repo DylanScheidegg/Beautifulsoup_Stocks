@@ -1,20 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import xlrd
-# pip install lxml
-# https://www.marketwatch.com/investing/stock/live
-# https://stackoverflow.com/questions/25338608/download-all-stock-symbol-list-of-a-market
-# https://stackoverflow.com/questions/51031140/check-whether-2d-array-contains-a-specific-1d-array-in-numpy
-# https://www.youtube.com/watch?v=p0DNcTnreuY
-# https://www.geeksforgeeks.org/reading-excel-file-using-python/
-# https://www.geeksforgeeks.org/taking-input-in-python/
-# https://thispointer.com/python-how-to-check-if-an-item-exists-in-list-search-by-value-or-condition/
-# https://thehelloworldprogram.com/python/python-string-methods/
-# https://medium.com/better-programming/how-to-indefinitely-request-user-input-until-valid-in-python-388a7c85aa6e
-# https://stackoverflow.com/questions/30062429/python-how-to-get-every-first-element-in-2-dimensional-list
-# https://stackoverflow.com/questions/2136267/beautiful-soup-and-extracting-a-div-and-its-contents-by-id
-# https://stackoverflow.com/questions/23377533/python-beautifulsoup-parsing-table
-# https://stackoverflow.com/questions/33469735/beautiful-soup-works-sometimes
 
 
 class YahooFinance(object):
